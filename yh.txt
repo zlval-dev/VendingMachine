@@ -1,0 +1,59 @@
+Tamanho da máquina: 10
+
+Nome: Pastel de Nata
+Preço: 0.75
+Quantidade: 10
+Capacidade: 10
+
+Nome: MMs
+Preço: 1.50
+Quantidade: 5
+Capacidade: 5
+
+Nome: Chips Ahoy
+Preço: 1.60
+Quantidade: 7
+Capacidade: 7
+
+Nome: Doritos
+Preço: 1.50
+Quantidade: 8
+Capacidade: 8
+
+Nome: Atlantida
+Preço: 0.75
+Quantidade: 8
+Capacidade: 8
+
+Nome: Nutela Go
+Preço: 1.20
+Quantidade: 5
+Capacidade: 5
+
+Nome: Yoggi morango
+Preço: 2
+Quantidade: 10
+Capacidade: 10
+
+Nome: Queijada
+Preço: 1.50
+Quantidade: 7
+Capacidade: 7
+
+Nome: Oreo
+Preço: 0.80
+Quantidade: 8
+Capacidade: 8
+
+Nome: Lays
+Preço: 2
+Quantidade: 7
+Capacidade: 7
+
+Moedas na caixa
+2 euros: 19
+1 euro: 16
+50 cêntimos: 16
+20 cêntimos: 16
+10 cêntimos: 11
+5 cêntimos: 18

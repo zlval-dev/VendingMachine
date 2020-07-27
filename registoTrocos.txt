@@ -1,0 +1,7 @@
+1 Registo
+Moedas de 2 euros: 2
+Moedas de 1 euros: 3
+Moedas de 50 centimos: 0
+Moedas de 20 centimos: 0
+Moedas de 10 centimos: 0
+Moedas de 5 centimos: 0
